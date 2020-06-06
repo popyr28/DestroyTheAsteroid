@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AsteroidMove
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ AsteroidMove\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ AsteroidMuncul()
+comment3.params=
+comment3.target=void\ AsteroidMuncul2()
+comment4.params=
+comment4.target=void\ AsteroidMuncul3()
+comment5.params=
+comment5.target=void\ powerUpJalan()
+comment6.params=
+comment6.target=void\ putar()
+numComments=7
